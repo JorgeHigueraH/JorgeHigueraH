@@ -23,10 +23,8 @@ I am an **Artificial Intelligence Engineer** driven by designing rigorous predic
 📫 **Let's connect:** 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=007EC6&center=true&vCenter=true&width=435&lines=Hola,+soy+Jorge;AI+Engineer;Apasionado+por+los+datos" alt="Typing SVG" />
 </div>
 
-<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jorge-higuera-herrero/">
