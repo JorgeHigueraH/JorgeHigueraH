@@ -1,4 +1,8 @@
-# Jorge Higuera Herrero | AI Engineer 🚀
+<div align="center">
+  <img src="jorge_banner.gif" width="100%" alt="Banner" />
+</div>
+<br>
+
 
 *🌍 ¿Buscas la versión en Inglés? [Haz clic aquí para leer en Inglés (Read in English)](README.md).*
 
@@ -20,4 +24,21 @@ Soy un **Ingeniero en Inteligencia Artificial** enfocado en diseñar sistemas pr
 * 🌍 **Proyecto en Activo:** Puedes evaluar un entorno web de producción gestionado por mí en [www.prefast.es](https://www.prefast.es).
 * 📁 **Calidad de Código:** Te invito a examinar mis repositorios a continuación. Encontrarás evidencias de código limpio, estructuras de carpetas modulares (separando la investigación analítica de la lógica de producción) y protocolos exigentes de evaluación de datos.
 
-📫 **Conectemos:** [LinkedIn](https://www.linkedin.com/in/jorge-higuera-herrero/)
+📫 **Conectemos:** 
+
+<div align="center">
+</div>
+
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jorge-higuera-herrero/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jhigueraherrero@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo" />
+  </a>
+</div>
+
+
+
+
