@@ -3,8 +3,6 @@
 </div>
 <br>
 
-# Jorge Higuera Herrero | AI Engineer 🚀
-
 *🌍 Looking for the Spanish version? [Click here to read in Spanish (Leer en Español)](README.es.md).*
 
 ### 🎯 Professional Profile
